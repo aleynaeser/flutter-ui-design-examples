@@ -1,17 +1,12 @@
 # Flutter UI Design Examples 🎈
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23292929&title_bg=%23EF30DE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-#### This repo contains the flutter ui designs I designed while learning.
+#### This repository contains the flutter ui designs I designed while learning.
 
 
-
+## 1. Food Order UI
 
  <table>
-   <thead>
-      <tr>
-         <th> Style 1 </th>
-      </tr>
-   </thead>
    <tbody>
       <tr>
          <td><img src="https://user-images.githubusercontent.com/45822686/153002620-ea16f249-18ef-4391-8e5e-8e12469b7303.png" height=300pm></td>
