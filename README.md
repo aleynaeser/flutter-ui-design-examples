@@ -3,7 +3,7 @@
 
 #### This repository contains the flutter ui designs I designed while learning.
 
-## 1. Profile Pafe UI
+## 1. User Profile Page UI With Profile Picture
  
  <table>
    <tbody>
