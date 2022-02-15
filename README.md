@@ -43,6 +43,7 @@
 * smooth_page_indicator:  
 * flutter_svg: 
 * shared_preferences:  
+* Inspired by https://www.uplabs.com/posts/splash-screen-mobile-ui-5
  
 <hr> </hr>
 
