@@ -47,6 +47,26 @@
  
 <hr> </hr>
 
+## 3. Mask Widget Usage
+ 
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154085505-af24db19-c2b0-4103-9981-2b11eb2bf4cd.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154085519-bc4bcca0-f4d7-463e-a7c4-af9c22f75426.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154085565-2f5ae2fe-10ab-45d7-9b4a-9b1da3a5744e.png"height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154085602-6f4917ee-a885-4ac3-857c-429a0ecebbaa.png" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+
+#### Packages in use:
+
+* widget_mask: ^1.0.0
+* smooth_page_indicator: ^1.0.0+2
+ 
+<hr> </hr>
+
 ## To use this app follow below instructions :
 #### Clone this app using below syntax:
 
