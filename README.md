@@ -25,6 +25,27 @@
  
 <hr> </hr>
 
+## 2. Splashscreen
+ 
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154040518-a30ca38a-5721-4090-a886-a7aa41abb8fe.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154040528-944f6fd6-dd3f-42d3-9f73-2627e31894da.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154040540-876042c1-80fb-4cc9-931b-55f4a341406b.png"height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154040545-7cec54ae-b16c-4fe7-8a3a-e865c2fb6870.png" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+
+#### Packages in use:
+
+* smooth_page_indicator:  
+* flutter_svg: 
+* shared_preferences:  
+ 
+<hr> </hr>
+
 ## To use this app follow below instructions :
 #### Clone this app using below syntax:
 
