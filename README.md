@@ -3,8 +3,21 @@
 
 #### This repository contains the flutter ui designs I designed while learning.
 
+## 1. Profile Pafe UI
+ 
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154115536-9d54f2c0-6d2b-429a-9e35-10a635bb1c54.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154115542-be595235-6488-49ed-84d7-47957e546181.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154115553-10ad5235-7184-4769-9bc1-acbb6c431809.png"height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+ 
+<hr> </hr>
 
-## 1. Food Order UI
+## 2. Food Order UI
 
  <table>
    <tbody>
@@ -25,7 +38,7 @@
  
 <hr> </hr>
 
-## 2. Splashscreen
+## 3. Splashscreen
  
  <table>
    <tbody>
@@ -47,7 +60,7 @@
  
 <hr> </hr>
 
-## 3. Mask Widget Usage
+## 4. Mask Widget Usage
  
  <table>
    <tbody>
