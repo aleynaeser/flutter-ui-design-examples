@@ -59,8 +59,33 @@
 * Inspired by https://www.uplabs.com/posts/splash-screen-mobile-ui-5
  
 <hr> </hr>
+ 
+## 4. Settings Screen UI
+ 
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339107-017da12f-c22f-47cd-b2a9-99e4f46fa917.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339129-8a4e969b-601e-4d8d-a8e8-68552e29d534.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339139-563dd861-a563-47b3-aebe-e09bf7d4ed20.png"height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339146-4099e3f0-d400-49e3-82d3-707f9878e7ff.png" height=300pm></td>
+      </tr>
+    <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339152-45a05cb7-36c4-461f-8e52-34d688945c65.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339158-98c19216-4678-4ae5-be99-9c7f71454321.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339170-8a4de640-a398-4c91-8d36-6d104dd0aef1.png"height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/154339173-ebc809df-80ac-4717-bbe1-f5f3f98dde85.png" height=300pm></td>
+    </tr>
+   </tbody>
+</table>
+ <td> 
+#### Packages in use:
 
-## 4. Mask Widget Usage
+* flutter_settings_screens
+
+<hr> </hr>
+
+## 5. Mask Widget Usage
  
  <table>
    <tbody>
