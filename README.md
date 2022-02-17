@@ -14,7 +14,7 @@
       </tr>
    </tbody>
 </table>
- 
+  
 <hr> </hr>
 
 ## 2. User Profile Page2 UI With Light/Dark Mode
@@ -29,7 +29,12 @@
       </tr>
    </tbody>
 </table>
- 
+
+#### Packages in use:
+
+* shared_preferences: ^2.0.13
+* provider: ^6.0.2
+
 <hr> </hr>
 
 ## 3. Food Order UI
