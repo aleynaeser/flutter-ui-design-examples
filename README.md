@@ -3,7 +3,21 @@
 
 #### This repository contains the flutter ui designs I designed while learning.
 
-## 1. User Profile Page UI With Profile Picture
+## 1. Articles Home Page View UI
+ 
+
+ <table>
+   <tbody>
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156225381-b75cc400-4a0f-4a6f-8077-ecd1bae2bb31.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156225386-c2b558f8-f09a-4844-9aa4-3631dde73070.png" height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+  
+<hr> </hr>
+
+##   User Profile Page UI With Profile Picture
  
  <table>
    <tbody>
@@ -17,7 +31,7 @@
   
 <hr> </hr>
 
-## 2. User Profile Page2 UI With Light/Dark Mode
+##   User Profile Page2 UI With Light/Dark Mode
  
  <table>
    <tbody>
@@ -37,7 +51,7 @@
 
 <hr> </hr>
 
-## 3. Food Order UI
+##   Food Order UI
 
  <table>
    <tbody>
@@ -58,7 +72,7 @@
  
 <hr> </hr>
 
-## 4. Splashscreen
+##   Splashscreen
  
  <table>
    <tbody>
@@ -80,7 +94,7 @@
  
 <hr> </hr>
  
-## 5. Settings Screen UI
+##  Settings Screen UI
  
  <table>
    <tbody>
@@ -98,14 +112,14 @@
     </tr>
    </tbody>
 </table>
- <td> 
+ 
 #### Packages in use:
 
 * flutter_settings_screens
 
 <hr> </hr>
 
-## 6. Mask Widget Usage
+##  Mask Widget Usage
  
  <table>
    <tbody>
