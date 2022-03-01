@@ -3,7 +3,7 @@
 
 #### This repository contains the flutter ui designs I designed while learning.
 
-## 1. Articles Home Page View UI
+## 1. Articles Home Page View UI- not completed-
  
 
  <table>
