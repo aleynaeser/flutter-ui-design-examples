@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 import 'package:post_screen_ui/model/category_json.dart';
 import 'package:post_screen_ui/utils/constant.dart';
 
@@ -41,4 +41,4 @@ class buildCategories extends StatelessWidget {
           }),
     );
   }
-}
+}*/
