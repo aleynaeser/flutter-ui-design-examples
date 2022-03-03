@@ -3,14 +3,26 @@
 
 #### This repository contains the flutter ui designs I designed while learning.
 
-## 1. Articles Home Page View UI- not completed-
- 
+## 1. Articles Home Page View UI
 
  <table>
    <tbody>
       <tr>
-         <td><img src="https://user-images.githubusercontent.com/45822686/156225381-b75cc400-4a0f-4a6f-8077-ecd1bae2bb31.png" height=300pm></td>
-         <td><img src="https://user-images.githubusercontent.com/45822686/156225386-c2b558f8-f09a-4844-9aa4-3631dde73070.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156603655-32f97f39-8ce0-45cd-b770-a7b0f498190f.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156603662-77529d91-92b9-4a11-ba78-6f7b4e0c79ce.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156603926-4e371b10-175a-4467-9c3d-b2a320719ddc.png"height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156603679-e1f0f708-261e-4df1-88b7-67e89818ed73.png"height=300pm></td>
+      </tr>
+          <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156604048-dbc08b22-d6d3-4d71-accb-cab946e46e7c.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156604054-1f84f8c0-b44c-4d81-8a3b-1d37c8e9827a.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156604065-e9a63c24-00f1-4dfb-a83b-85f078920741.png"height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156604071-3f0ad101-e76f-4db6-a138-6a8a1fb640e2.png"height=300pm></td>
+      </tr>
+      </tr>
+          <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156604279-eea6e3c7-adaf-4ad7-9750-213467911ad4.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/156604270-5f9ce16e-6b62-49bd-a266-6023b569203c.png" height=300pm></td>
       </tr>
    </tbody>
 </table>
